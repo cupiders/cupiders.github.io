@@ -86,6 +86,7 @@ After edit the source codes, publishing the theme through **Gitpage** requires s
       gem "jekyll-gist"
       gem "jekyll-feed"
       gem "jekyll-include-cache"
+   end
    ```
 
 2. Fetch and update bundled gems by running the following command:
