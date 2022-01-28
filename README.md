@@ -86,7 +86,6 @@ After edit the source codes, publishing the theme through **Gitpage** requires s
       gem "jekyll-gist"
       gem "jekyll-feed"
       gem "jekyll-include-cache"
-  end
    ```
 
 2. Fetch and update bundled gems by running the following command:
@@ -95,7 +94,7 @@ After edit the source codes, publishing the theme through **Gitpage** requires s
    bundle install
    ```
 
-3. **Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove `theme:` entry.**
+3. **Add `remote_theme:    "mmistakes/minimal-mistakes"` to your `_config.yml` file. Remove `theme:` entry.**
 
 4. Push source codes into github repository.
 
