@@ -1,0 +1,184 @@
+I"�<!-- 
+  
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/news/nureth19/" rel="permalink">NURETH19 Workshop: CUPID - Multi-Scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-01-25T00:00:00+09:00">January 25, 2022</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">CUPID for the Multi-scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors
+</p>
+  </article>
+</div>
+
+ -->
+
+<!-- 
+
+<div class="feature__wrapper">
+
+  
+
+</div>
+ -->
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/SALOME_screenshot.png" alt="SALOME screenshot" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Preprocessor: SALOME</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><strong>SALOME</strong> is an open-source software that provides a generic Pre- and Post-Processing platform for numerical simulation. As a preprocessor, SALOME provides versatile functionalities for creation, visualization and modification of geometric CAD models. <strong>SMESH</strong>(Mesh module in SALOME) is to create meshes on the basis of geometrical models created or imported into SALOME. It uses a set of meshing algorithms and their corresponding conditions (hypotheses) to compute meshes. In addition, a new mesher can be easily connected to this module by using the existing plugin mechanism.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.salome-platform.org/downloads/current-version" class="btn btn--primary">Go to Downloads</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/paraview_image.jpeg" alt="PARAVIEW screenshot" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Postprocessor: PARAVIEW</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><strong>ParaView</strong> is an open-source, multi-platform data analysis and visualization application. CUPID users can quickly build visualizations to analyze their data based on ParaView post processing. The data exploration can be done interactively in 3D or programmatically using ParaView’s batch processing capabilities.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.paraview.org/download/" class="btn btn--primary">Go to Downloads</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/KAERI_logo.png" alt="KAERI image" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Organization: KAERI</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>The Korea Atomic Energy Research Institute (KAERI), a government-funded research institute established in accordance with “the Act on the Establishment, Operation and Fostering of Government-funded Science and Technology Research Institutes, etc.,” contributes to academic advancement, energy acquisition, and utilization of nuclear energy through active research and development in related fields.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.kaeri.re.kr/eng/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/KINS_logo.png" alt="KINS image" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Cooperation: KINS</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>KINS is a dedicated technical expert organization for nuclear safety regulation established to protect the public from radiation disasters arising from production and utilization of nuclear energy and to contribute to public safety and environment conservation.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.kins.re.kr/en/index" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET

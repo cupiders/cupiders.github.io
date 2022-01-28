@@ -1,0 +1,35 @@
+I"¼
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/c_logo4.png" alt="CUPIDERS"></a>
+        
+        <a class="site-title" href="/">
+          CUPIDERS
+          <span class="site-subtitle">Developers, Users of CUPID Code</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/collection-archive/">Publication</a>
+            </li><li class="masthead__menu-item">
+              <a href="/linkmap/">Links</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact/">Contact</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+:ET

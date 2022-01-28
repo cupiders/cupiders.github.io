@@ -1,0 +1,14 @@
+I"¾<p><a href="https://doi.org/10.5516/NET.02.2012.716">Nuclear Engineering and Technology, Vol.44, No.8, pp.831-846, 2012</a></p>
+
+<h2 id="author">Author</h2>
+
+<p>H.Y.Yoon, H.K.Cho, J.R.Lee, I.K.Park, J.J.Jeong</p>
+
+<hr />
+
+<blockquote>
+  <p>KAERI has developed a two-phase CFD code, CUPID, for a refined calculation of transient two-phase flows related to nuclear reactor thermal hydraulics, and its numerical models have been verified in previous studies. In this paper, the CUPID code is validated against experiments on the downcomer boiling and moderator flow in a Calandria vessel. Physical models relevant to the validation are discussed. Thereafter, multi-scale thermal hydraulic analyses using the CUPID code are introduced. At first, a component-scale calculation for the passive condensate cooling tank (PCCT) of the PASCAL experiment is linked to the CFD-scale calculation for local boiling heat transfer outside the heat exchanger tube. Next, the Rossendorf coolant mixing (ROCOM) test is analyzed by using the CUPID code, which is implicitly coupled with a system-scale code, MARS.</p>
+</blockquote>
+
+<p><a href="https://doi.org/10.5516/NET.02.2012.716">https://doi.org/10.5516/NET.02.2012.716</a></p>
+:ET
