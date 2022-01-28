@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Learn more"
       url: /about/
-excerpt: "CUPID: High Fidelity Three-dimensional Thermal Hydraulics code <br /> for Single- and Two-phase Flows in Nuclear Reactor <br /> developed by Multiphysics Computational Science Research Team of KAERI"
+excerpt: "CUPID: High Fidelity Three-dimensional Thermal Hydraulics <br /> code for Single- and Two-phase Flows in Nuclear Reactor <br /> developed by Multiphysics Computational Science Research Team of KAERI"
 intro: 
   - excerpt: 'The **CUPID** code has been developed for steady-state and transient analyses of single- and two-phase flows in nuclear reactor in `component-scale` or `CFD-scale`' 
 ---
