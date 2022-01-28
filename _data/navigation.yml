@@ -1,0 +1,23 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Publication"
+    url: /collection-archive/
+  - title: "Links"
+    url: /linkmap/
+  - title: "Contact"
+    url: /contact/
+
+
+
+#     - Home ; DEMO 동영상 - 내용 텍스트로 공유 (revision)
+# - About - 내용 텍스트로 공유 (revision)
+# - Publication
+# - News  
+# - LINKS ; KAERI, KNS, SALOME, PARAVIEW, ...
+# - User feedback (cupiders 등록 등 Send message / 리포팅  QA 양식 채워서  email/)  
