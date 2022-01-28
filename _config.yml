@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
@@ -136,17 +136,17 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://ko-kr.facebook.com/atomkaeri"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cupiders/cupiders.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://www.kaeri.re.kr/"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/cupiders/cupiders.github.io"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   url: "https://www.kaeri.re.kr/"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
 
 
