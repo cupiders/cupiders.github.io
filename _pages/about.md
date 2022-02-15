@@ -24,12 +24,13 @@ toc: false
 ## Features
 
 - Finite Volume Method
-- Unstructured Mesh: Tetrahedron, Polyhedron Mesh
-- Numerical Scheme: Semi-Implicit Method
-- Pressure Solver: ILU-Preconditioning BiCG
+- Unstructured Mesh: Tetrahedron, Polyhedron mesh
+- Numerical Scheme: Semi-Implicit method, Fully-Implicit method
+- Pressure Solver: Conjugate Gradient (CG) and Multi-Grid (MG) solvers
 - Parallel: MPI, Hybrid-MPI (MPI-OpenMP)
 - Two-phase Physical Models and Correlations
-- Multi-scale & Multi-physics Codes Integration
+- Multi-scale Analysis: Implicit coupling with a system analysis code
+- Multi-physics Analysis: Coupling with neutron kinetics and fuel performance codes
 
 ---
 
@@ -42,7 +43,7 @@ toc: false
 
 ### MASTER:
 
-   * Neutronics Code
+   * Neutron Kinetics Code
    * Multi-group Diffusion Equation
 
 ### FRAPTRAN:
