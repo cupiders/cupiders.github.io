@@ -191,8 +191,14 @@ var store = [{
         "url": "/papers/2017-11-09-SCI-journal/",
         "teaser": "/assets/images/500x300.png"
       },{
+        "title": "9th CUPIDERS Workshop",
+        "excerpt":"9th CUPIDERS Workshop: Regular meeting for CUPID user group   Virtual meeting (Online)   Schedule   25th - 27th August 2021, Wednesday - Friday   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program               Program time table   See More   ","categories": ["Meeting"],
+        "tags": ["CUPIDERS","Workshop","User group"],
+        "url": "/meeting/cupiders-workshop9/",
+        "teaser": "/assets/images/500x300.png"
+      },{
         "title": "NURETH19 Workshop: CUPID - Multi-Scale & Multi-Physics Safety Analysis of Nuclear Reactors",
-        "excerpt":"CUPID for the Multi-scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors   Schedule   4th March 2022, Friday 13:00 - 17:00 (UTC+01:00)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program         Program time table     Here is possible to download the presentation materials in PDF   See More   ","categories": ["NEWS"],
+        "excerpt":"CUPID for the Multi-scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors   Schedule   4th March 2022, Friday 13:00 - 17:00 (UTC+01:00)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program         Program time table   Here is possible to download the presentation materials in PDF   See More   ","categories": ["NEWS"],
         "tags": ["NURETH","Workshop","CUPID"],
         "url": "/news/nureth19/",
         "teaser": "/assets/images/500x300.png"
