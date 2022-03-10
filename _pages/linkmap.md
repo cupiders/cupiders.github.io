@@ -8,7 +8,7 @@ feature_row:
     alt: "SALOME screenshot"
     title: "Preprocessor: SALOME"
     excerpt: '**SALOME** is an open-source software that provides a generic Pre- and Post-Processing platform for numerical simulation. As a preprocessor, SALOME provides versatile functionalities for creation, visualization and modification of geometric CAD models. **SMESH**(Mesh module in SALOME) is to create meshes on the basis of geometrical models created or imported into SALOME. It uses a set of meshing algorithms and their corresponding conditions (hypotheses) to compute meshes. In addition, a new mesher can be easily connected to this module by using the existing plugin mechanism.'
-    url: "https://www.salome-platform.org/downloads/current-version"
+    url: "https://www.salome-platform.org/?page_id=15"
     btn_label: "Go to Downloads"
     btn_class: "btn--primary"
 feature_row2:
