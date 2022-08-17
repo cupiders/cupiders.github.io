@@ -202,4 +202,10 @@ var store = [{
         "tags": ["NURETH","Workshop","CUPID"],
         "url": "/news/nureth19/",
         "teaser": "/assets/images/500x300.png"
+      },{
+        "title": "10th CUPIDERS Workshop",
+        "excerpt":"10th CUPIDERS Workshop: Regular meeting for CUPID user group   Face-to-face meeting (Offline)   Schedule   23th August 2022, Tuesday   Location   1st floor, INTEC, Korea Atomic Energy Research Institute (KAERI)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program               Program time table   See More   ","categories": ["Meeting"],
+        "tags": ["CUPIDERS","Workshop","User group"],
+        "url": "/meeting/cupiders-workshop10/",
+        "teaser": "/assets/images/500x300.png"
       }]
