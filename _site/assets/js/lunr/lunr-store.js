@@ -198,13 +198,13 @@ var store = [{
         "teaser": "/assets/images/500x300.png"
       },{
         "title": "NURETH19 Workshop: CUPID - Multi-Scale & Multi-Physics Safety Analysis of Nuclear Reactors",
-        "excerpt":"CUPID for the Multi-scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors   Schedule   4th March 2022, Friday 13:00 - 17:00 (UTC+01:00)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program         Program time table   Here is possible to download the presentation materials in PDF   See More   ","categories": ["NEWS"],
+        "excerpt":"CUPID for the Multi-scale &amp; Multi-Physics Safety Analysis of Nuclear Reactors   Schedule   4th March 2022, Friday 13:00 - 17:00 (UTC+01:00)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program         Program time table   Click to download the presentation materials in PDF   ","categories": ["NEWS"],
         "tags": ["NURETH","Workshop","CUPID"],
         "url": "/news/nureth19/",
         "teaser": "/assets/images/500x300.png"
       },{
         "title": "10th CUPIDERS Workshop",
-        "excerpt":"10th CUPIDERS Workshop: Regular meeting for CUPID user group   Face-to-face meeting (Offline)   Schedule   23th August 2022, Tuesday   Location   1st floor, INTEC, Korea Atomic Energy Research Institute (KAERI)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program               Program time table   See More   ","categories": ["Meeting"],
+        "excerpt":"10th CUPIDERS Workshop: Regular meeting for CUPID user group   Face-to-face meeting (Offline)   Schedule   23th August 2022, Tuesday   Location   1st floor, INTEC, Korea Atomic Energy Research Institute (KAERI)   Organization   Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)   Program               Program time table   Click to download the presentation materials in PDF   ","categories": ["Meeting"],
         "tags": ["CUPIDERS","Workshop","User group"],
         "url": "/meeting/cupiders-workshop10/",
         "teaser": "/assets/images/500x300.png"
