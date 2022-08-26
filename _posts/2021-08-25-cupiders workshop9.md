@@ -24,11 +24,11 @@ Han Young Yoon, Korea Atomic Energy Research Institute (KAERI)
 ## Program
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/20210815_cupiders9_1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/20220817_cupiders10_1.PNG" alt="">
 </figure> 
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/20210815_cupiders9_2.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/20220817_cupiders10_2.PNG" alt="">
   <figcaption>Program time table</figcaption>
 </figure> 
 
